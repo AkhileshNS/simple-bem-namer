@@ -1,6 +1,6 @@
 {
   "name": "simple-bem-namer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple tool to help you give class name to html elements while following the bem architecture",
   "main": "index.js",
   "scripts": {
