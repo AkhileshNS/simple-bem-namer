@@ -3,9 +3,9 @@
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-exports.namer = void 0;
+exports.bem = void 0;
 
-var namer = function namer(name) {
+var bem = function bem(name) {
   return function (value) {
     var Name = name;
 
@@ -58,4 +58,4 @@ var namer = function namer(name) {
   };
 };
 
-exports.namer = namer;
+exports.bem = bem;
