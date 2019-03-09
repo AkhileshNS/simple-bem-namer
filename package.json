@@ -1,0 +1,28 @@
+{
+  "name": "simple-bem-namer",
+  "version": "1.0.0",
+  "description": "A simple tool to help you give class name to html elements while following the bem architecture",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkhileshNS/simple-bem-namer.git"
+  },
+  "keywords": [
+    "bem",
+    "css",
+    "html",
+    "class",
+    "className",
+    "react"
+  ],
+  "author": "AkhileshNS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AkhileshNS/simple-bem-namer/issues"
+  },
+  "homepage": "https://github.com/AkhileshNS/simple-bem-namer#readme"
+}
