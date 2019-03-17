@@ -1,8 +1,6 @@
 # simple-ben-namer
 
 ![npm (unscoped)](https://img.shields.io/npm/v/simple-bem-namer.svg)
-![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/simple-bem-namer.svg)
-![npm bundle size (minzip)](https://img.shields.io/bundlephobia/minzip/simple-bem-namer.svg)
 ![issues (open)](https://img.shields.io/github/issues/AkhileshNS/simple-bem-namer.svg)
 
 A custom bem abiding css class name generator primarily targeted towards react developers
